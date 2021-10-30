@@ -105,5 +105,9 @@ public class TV {
 		}
 	}
 	
+	static public void setNumTV(int num) {
+		TV.numTV=num;
+	}
+	
 
 }

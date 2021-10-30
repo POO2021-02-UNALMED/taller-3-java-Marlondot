@@ -3,7 +3,7 @@ package taller3.televisores;
 public class Control {
 	private TV tv;
 	
-	public Control(TV tv){
+	public Control(){
 	}
 	
 	public void enlazar(TV tv) {

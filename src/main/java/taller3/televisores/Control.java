@@ -10,7 +10,7 @@ public class Control {
 		this.tv=tv;
 		this.tv.setControl(this);
 	}
-	
+	//???
 	public TV getTv() {
 		return tv;
 	}

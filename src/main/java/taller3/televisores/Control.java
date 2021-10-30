@@ -11,7 +11,7 @@ public class Control {
 		this.tv.setControl(this);
 	}
 	
-	public TV getTV() {
+	public TV getTv() {
 		return tv;
 	}
 	

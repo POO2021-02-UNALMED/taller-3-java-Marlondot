@@ -4,7 +4,6 @@ public class Control {
 	private TV tv;
 	
 	public Control(TV tv){
-		this.tv=tv;
 	}
 	
 	public void enlazar(TV tv) {
